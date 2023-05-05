@@ -16,7 +16,7 @@ I am a High School Student 🎓 from Italy.
 - [x] Learn the syntax of `Dart`
 - [ ] Develop a productivity app using `Flutter`
 - [x] Qualify for [`OII`](https://www.olimpiadi-informatica.it/) national selection
-- [ ] Reach expert level on Codeforces
+- [ ] Reach Master level on Codeforces
 
 ---
 
