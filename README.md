@@ -32,12 +32,12 @@ I am a High School Student 🎓 from Italy.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="html5" width="40" height="40"/> 
 </div>
 
-### Python modules I've experience with:
+### : Python modules I've some experience with:
 - [Requests](https://pypi.org/project/requests/)
 - [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
 
 ---
 
-### Stats :
+# Stats :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotmat&layout=compact&theme=vision-friendly-dark)
