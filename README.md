@@ -20,7 +20,7 @@ I am a High School Student 🎓 from Italy.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+# :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -32,14 +32,12 @@ I am a High School Student 🎓 from Italy.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="html5" width="40" height="40"/> 
 </div>
 
----
-
-Python modules I've experience with:
+### Python modules I've experience with:
 - [Requests](https://pypi.org/project/requests/)
 - [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
 
 ---
 
-### :fire: My Stats :
+### Stats :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotmat&layout=compact&theme=vision-friendly-dark)
