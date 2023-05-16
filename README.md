@@ -30,7 +30,7 @@ I am a High School Student 🎓 from Italy.
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="html5" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="html5" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="html5" width="40" height="40"/> 
-  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/jquery-1-logo.png" alt="html5" height="40" width="200"/> 
+  <img src="https://assets.stickpng.com/thumbs/62a76a9bbd73a4af5c5d4fc4.png" alt="html5" height="40" width="40"/> 
 </div>
 
 ### 🐍 Python modules I've some experience with:
