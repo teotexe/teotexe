@@ -12,10 +12,11 @@ I am a High School Student 🎓 from Italy.
 - [ ] Create a backend using `PHP`
 - [ ] Create my own website
 - [x] Learn the syntax of `C++`
+- [ ] Learn the basics of Unity
 - [ ] Develop a little game engine in `C++`
 - [ ] Develop a game based on generative algorithms with `Haxe` and `OpenFL`
 - [x] Learn the syntax of `Dart`
-- [ ] Develop a productivity app using `Flutter`
+- [x] Develop a workout manager app using `Flutter`
 - [x] Qualify for [`OII`](https://www.olimpiadi-informatica.it/) national phase
 - [ ] Reach Master level on Codeforces
 
