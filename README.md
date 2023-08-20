@@ -17,7 +17,7 @@ I am a High School Student 🎓 from Italy.
 - [ ] Develop a game based on generative algorithms with `Haxe` and `OpenFL`
 - [x] Learn the syntax of `Dart`
 - [x] Develop a workout manager app using `Flutter`
-- [x] Qualify for [`OII`](https://www.olimpiadi-informatica.it/) national phase
+- [x] Pass [`OII`](https://www.olimpiadi-informatica.it/) territorial phase
 - [ ] Reach Master level on Codeforces
 
 ---
