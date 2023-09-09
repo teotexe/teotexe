@@ -13,8 +13,8 @@ I am a High School Student 🎓 from Italy.
 - [ ] Create my own website
 - [x] Learn the syntax of `C++`
 - [ ] Learn the basics of Unity
-- [ ] Develop a little game engine in `C++`
-- [ ] Develop a game based on generative algorithms with `Haxe` and `OpenFL`
+- [ ] Develop a game engine in `C++`
+- [ ] Develop a horror game based on generative algorithms
 - [x] Learn the syntax of `Dart`
 - [x] Develop a workout manager app using `Flutter`
 - [x] Pass [`OII`](https://www.olimpiadi-informatica.it/) territorial phase
