@@ -1,6 +1,6 @@
 ### :man_technologist: About Me :
 I am a High School Student 🎓 from Italy.
-- 🌱 I’m currently learning `PHP`
+- 🌱 I’m currently developing a pattern maker based on generative algorithms with the possibility to add personalised rules
 - 👯 I’m looking to collaborate on an open source project
 - 💬 Ask me about `CP`
 
