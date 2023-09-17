@@ -9,11 +9,11 @@ I am a High School Student 🎓 from Italy.
 - [x] Learn the syntax of `HTML`
 - [x] Learn the syntax of `JS`
 - [ ] Create a backend using `PHP`
-- [ ] Create my own website
+- [x] Create my own website
 - [x] Learn the syntax of `C++`
-- [ ] Learn the basics of Unity
+- [x] Learn the basics of Unity
 - [ ] Develop a game engine in `C++`
-- [ ] Develop a pattern maker based on generative algorithms with the possibility to add personalised rules 
+- [x] Develop a pattern maker based on generative algorithms with the possibility to add personalised rules 
 - [ ] Develop a horror game based on generative algorithms
 - [x] Learn the syntax of `Dart`
 - [x] Develop a workout manager app using `Flutter`
