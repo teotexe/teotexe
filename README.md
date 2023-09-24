@@ -8,15 +8,16 @@ I am a High School Student 🎓 from Italy.
 - [x] Learn the basics of `WEB`
 - [x] Learn the syntax of `HTML`
 - [x] Learn the syntax of `JS`
-- [ ] Create a backend using `PHP`
+- [x] Learn the syntax of `Dart`
+- [x] Develop a workout manager app using `Flutter`
+- [ ] Learn about `Firebase`
+- [ ] Develop an app using `Kotlin`
 - [x] Create my own website
 - [x] Learn the syntax of `C++`
 - [x] Learn the basics of Unity
 - [ ] Develop a game engine in `C++`
 - [x] Develop a pattern maker based on generative algorithms with the possibility to add personalised rules 
 - [ ] Develop a horror game based on generative algorithms
-- [x] Learn the syntax of `Dart`
-- [x] Develop a workout manager app using `Flutter`
 - [x] Pass [`OII`](https://www.olimpiadi-informatica.it/) territorial phase
 - [ ] Reach Master level on Codeforces
 
