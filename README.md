@@ -1,6 +1,6 @@
 ### About Me :
 I am a High School Student 🎓 from Italy.
-- 🌱 I’m currently developing a pattern maker based on generative algorithms with the possibility to add personalised rules
+- 🌱 I’m currently learning Algorithms and Data Structures
 - 👯 I’m looking to collaborate on an open source project
 
 # To do list
@@ -11,19 +11,17 @@ I am a High School Student 🎓 from Italy.
 - [x] Learn the syntax of `Dart`
 - [x] Develop a workout manager app using `Flutter`
 - [ ] Learn about `Firebase`
-- [ ] Develop an app using `Kotlin`
 - [x] Create my own website
 - [x] Learn the syntax of `C++`
 - [x] Learn the basics of Unity
 - [ ] Develop a game engine in `C++`
 - [x] Develop a pattern maker based on generative algorithms with the possibility to add personalised rules 
 - [ ] Develop a horror game based on generative algorithms
-- [x] Pass [`OII`](https://www.olimpiadi-informatica.it/) territorial phase
 - [ ] Reach Master level on Codeforces
 
 ---
 
-# :🛠️: Languages and Tools :
+# 🛠️ Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -35,10 +33,6 @@ I am a High School Student 🎓 from Italy.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="html5" width="40" height="40"/> 
   <img src="https://static-00.iconduck.com/assets.00/jquery-icon-icon-512x507-kvrw1iok.png" alt="html5" height="40" width="40"/> 
 </div>
-
-### 🐍 Python modules I've some experience with:
-- [Requests](https://pypi.org/project/requests/)
-- [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
 
 ---
 
