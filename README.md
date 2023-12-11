@@ -1,4 +1,4 @@
-### :man_technologist: About Me :
+### About Me :
 I am a High School Student 🎓 from Italy.
 - 🌱 I’m currently developing a pattern maker based on generative algorithms with the possibility to add personalised rules
 - 👯 I’m looking to collaborate on an open source project
@@ -23,7 +23,7 @@ I am a High School Student 🎓 from Italy.
 
 ---
 
-# :hammer_and_wrench: Languages and Tools :
+# :🛠️: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
