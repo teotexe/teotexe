@@ -18,6 +18,11 @@ I am a High School Student 🎓 from Italy.
 - [x] Develop a pattern maker based on generative algorithms with the possibility to add personalised rules 
 - [ ] Develop a horror game based on generative algorithms
 - [ ] Reach Master level on Codeforces
+- [x] Qualify for OII national finals
+- [x] Qualify for Olicyber national finals
+
+
+
 
 ---
 
