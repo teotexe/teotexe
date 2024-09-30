@@ -5,23 +5,18 @@ I am a High School Student 🎓 from Italy.
 
 # To do list
 - [ ] Learn the basics of `ML`
-- [x] Learn the basics of `WEB`
-- [x] Learn the syntax of `HTML`
 - [x] Learn the syntax of `JS`
 - [x] Learn the syntax of `Dart`
 - [x] Develop a workout manager app using `Flutter`
 - [ ] Learn about `Firebase`
-- [x] Create my own website
+- [ ] Create my own website
 - [x] Learn the syntax of `C++`
 - [x] Learn the basics of Unity
-- [ ] Develop a game engine in `C++`
-- [x] Develop a pattern maker based on generative algorithms with the possibility to add personalised rules 
+- [ ] Develop a game engine in `C++` 
 - [ ] Develop a horror game based on generative algorithms
 - [ ] Reach Master level on Codeforces
 - [x] Qualify for OII national finals
 - [x] Qualify for Olicyber national finals
-
-
 
 
 ---
